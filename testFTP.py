@@ -1,1 +1,1 @@
-print ("testFTPP")
+print ("testFTP")
