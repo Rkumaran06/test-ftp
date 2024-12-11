@@ -1,1 +1,1 @@
-print ("testFTPsdfgh")
+print ("testFTP")
